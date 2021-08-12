@@ -1,7 +1,5 @@
 # Git Basics Commands for Beginners
 
-### Hi there 👋, I'm Ali Sheraz
-
 This repo will contain all basics git commands and theirs uses.
 
 ### Step 01
@@ -43,6 +41,8 @@ Displays the original state in a conflict.
 git config --global merge.conflictstyle diff3
 git config --list
 </code></pre>
+
+### Step 03
 
 ### Git & Code Editor
 
