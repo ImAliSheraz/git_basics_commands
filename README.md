@@ -20,25 +20,21 @@ To download Git:
 Before you can start using Git, you need to configure it. Run each of the following lines on the command line to make sure everything is set up.  
 Sets up Git with Your Name
 
-<pre><code>
-git config --global user.name "Your-Full-Name"</code></pre>
+<pre><code>git config --global user.name "Your-Full-Name"</code></pre>
 
 Sets up Git with Your Email
 
-<pre><code>
-git config --global user.email "Email Address"
+<pre><code>git config --global user.email "Email Address"
 </code></pre>
 
 Makes sure that Git output is colored.
 
-<pre><code>
-git config --global color.ui auto
+<pre><code>git config --global color.ui auto
 </code></pre>
 
 Displays the original state in a conflict.
 
-<pre><code>
-git config --global merge.conflictstyle diff3
+<pre><code>git config --global merge.conflictstyle diff3
 git config --list
 </code></pre>
 
