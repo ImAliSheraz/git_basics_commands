@@ -79,12 +79,6 @@ Following command will create a commit to your local repo
 
 <pre><code>git push -u origin main</code></pre>
 
-### Connecting to remote Repo
-
-Use the git following command to connect to a remote repo.
-
-<pre><code>git init</code></pre>
-
 ### Reference
 
 Udacity Free Course  
