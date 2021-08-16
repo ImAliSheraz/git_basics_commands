@@ -54,3 +54,38 @@ Sublime Text Setup
 Atom Editor Setup
 
 <pre><code>git config --global core.editor "atom --wait"</code></pre>
+
+### Initializing Git Repo and Connecting remote Repo.
+
+Use the git following command to create a new, empty repository in the current directory.
+
+<pre><code>git init</code></pre>
+
+> 'init' is short form of 'initialize'
+
+Add readme file
+
+<pre><code>git add README.md</code></pre>
+
+Following command will create a commit to your local repo
+
+<pre><code>git commit -m "Your Commit Message"</code></pre>
+
+<pre><code>git branch -M main</code></pre>
+
+<pre><code>git commit -m "Your Commit Message"</code></pre>
+
+<pre><code>git remote add origin [Your GitHub Link]</code></pre>
+
+<pre><code>git push -u origin main</code></pre>
+
+### Connecting to remote Repo
+
+Use the git following command to connect to a remote repo.
+
+<pre><code>git init</code></pre>
+
+### Reference
+
+Udacity Free Course  
+[Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123 "Version Control with Git")
